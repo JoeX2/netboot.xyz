@@ -19,7 +19,7 @@ deploy:
     secure: gJvHGjDplM+x7maPhN0QKP3M8r7ErO3vwpokfUR/KaFNYQvMxZGuI0w27Mfoku8NFrH0YYBv2yvuOFywxWdfyVEzMFimOFUrAhkizqiPtzVBkD10EUBqaQRxwI6JuuovxYdwO2QiInCdpT02vtFjDPILz1ouXq+VpKJWxncHmC1SSEw3eUlJTQWpuh0a/6vSqVjygmqknj+PW0LaI6i/vEeU8iDw+z5mAYyzs8HIlpmDAcjNTi8WkAETMHLjRoXfd6CYDM/CrbnILu568/jAcjlBE2lmZ/UhOar/bbmmUH4ve1GPHBtnTTBVwFA3B84pRZW/Iz7+BEuwoWbGMX6XClhz7NpuvNJfTEN2KMbKAvYcRpk2EYsaywq5kaZWT209frB8Jergvw5v8IetHzu+mUwBQsHr5M0f6pSmOwy/CesClfJBO5v5NpqqtVtPPbPo/4Oxpg4l/3EMXVSilf6tdIxlp5OmxrdjF6SV/n0OhnhRt1Wj+1U+VvDEK0aYxSCIWZCHLrRBaDxB3zK9yKa5GyKcbdC32i1OV8eEJwjnlvaUUllEID2Hlv34rn5K0r51NMbxuibPklSet0/MFFfcK8/5lAP9ZY3/SofUuSyQ9CbxYUDgO5eiG1Q/bCxqcGVoB/rkJwjTHvMU1oTEKDZq0mhKZAqe6s+cUNOYoxIyvwg=
   skip_cleanup: true
   on:
-    repo: antonym/netboot.xyz
+    repo: JoeX2/netboot.xyz
 notifications:
   email:
-    - antony@mes.ser.li
+    - joe.sorensen@gmail.com
